@@ -15,7 +15,7 @@ npm install grunt-load-gruntfile
 module.exports = function(grunt) {
   'use strict';
 
-  require("gruntfile-load")(grunt);
+  require("grunt-load-gruntfile")(grunt);
   
   grunt.loadGruntfile("./node_modules/module");
 };
