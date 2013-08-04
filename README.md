@@ -20,6 +20,7 @@ module.exports = function(grunt) {
   grunt.loadGruntfile("./node_modules/module");
 };
 ```
+The current path of the project is available through grunt.projectPath
 
 ## License
 

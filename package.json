@@ -1,7 +1,7 @@
 {
   "name": "grunt-load-gruntfile",
   "description": "Add the functionality to load a Gruntfile in grunt",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "Maxime Mezrahi",
     "url": "https://github.com/maxs15"
